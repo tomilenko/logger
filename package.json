@@ -1,0 +1,27 @@
+{
+  "name": "@tomilenko/logger",
+  "version": "0.0.1",
+  "main": "lib/logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomilenko/logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomilenko/logger/issues"
+  },
+  "homepage": "https://github.com/tomilenko/logger#readme",
+  "description": "",
+  "dependencies": {
+    "figlet": "^1.2.4",
+    "kleur": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.2.0"
+  }
+}
