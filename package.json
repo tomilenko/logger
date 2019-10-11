@@ -1,6 +1,6 @@
 {
   "name": "@tomilenko/logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/logger.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,16 @@
     "type": "git",
     "url": "git+https://github.com/tomilenko/logger.git"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "node",
+    "log",
+    "logger",
+    "logging",
+    "logs",
+    "tools",
+    "tool"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
