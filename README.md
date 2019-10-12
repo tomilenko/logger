@@ -1,5 +1,8 @@
 # @tomilenko/logger
 
+[![npm version](https://badge.fury.io/js/%40tomilenko%2Flogger.svg)](https://badge.fury.io/js/%40tomilenko%2Flogger)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LW54FD3RBE2PJ)
+
 ## Description
 
 The TypeScript logger module.
